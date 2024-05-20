@@ -1,0 +1,24 @@
+server:
+  port: 8080
+spring:
+  datasource:
+    url: jdbc:mariadb://127.0.0.1:3306/test_dev?useUnicode=true&characterEncoding=utf8&autoReconnect=true&serverTimezone=Asia/Seoul
+    username: root
+    password: 12345678
+    driver-class-name: org.mariadb.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.Maria-DBDialect
+        show_sql: false
+        format_sql: true
+        use_sql_comments: true
+        default_batch_fetch_size: 100
+logging:
+  level:
+    org.hibernate.SQL: DEBUG
+    #org.hibernate.type: TRACE
+    org.hibernate.orm.jdbc.bind: TRACE
+    org.hibernate.orm.jdbc.extract: TRACE
