@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5bad1eab-427e-4a80-a6fe-f5ad2ff089e3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +149,7 @@
       <recent name="org.example.global.config" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.projecttest [build]">
+  <component name="RunManager" selected="Docker.docker-compose.yml: Compose Deployment">
     <configuration name="projecttest [bootJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -265,10 +265,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
         <item itemvalue="Gradle.projecttest [build]" />
         <item itemvalue="Gradle.projecttest [jar]" />
         <item itemvalue="Gradle.projecttest [bootJar]" />
-        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
         <item itemvalue="Docker.docker-compose.yml.app: Compose Deployment" />
       </list>
     </recent_temporary>
@@ -311,7 +311,7 @@
       <workItem from="1715824744977" duration="598000" />
       <workItem from="1716163445999" duration="17184000" />
       <workItem from="1716183169712" duration="4000" />
-      <workItem from="1716183250209" duration="2675000" />
+      <workItem from="1716183250209" duration="4382000" />
     </task>
     <servers />
   </component>
