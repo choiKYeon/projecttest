@@ -201,4 +201,5 @@ $RECYCLE.BIN/
 # End of https://www.toptal.com/developers/gitignore/api/java,intellij,windows,macos
 
 ##
-application-secret.yml
+application-secret.ymlsrc/main/resources/application-secret.yml
+build/resources/main/application-secret.yml
