@@ -1,0 +1,3 @@
+src/main/resources/application-secret.yml
+build/resources/main/application-secret.yml
+out/production/resources/application-secret.yml
